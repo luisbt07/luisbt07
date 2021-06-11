@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Flutter, Java, Sring Boot, Angular 
 - 👨‍🏭 I'm currently working as a Full Stack Developer on dti digital
 - 📗�I'm in the fifth period of my College studying Computing Engineering in PUC-MG BH 
-- 💞️ I’m looking to work in any challenge that can increase my knowledge and of course that can make good to the society.
+- 💞️ I’m looking to work in any challenge that can increase my knowledge and of course that can make good to the society and to my future family.
 - 📫 How to reach me luisbt_07@hotmail.com - https://www.linkedin.com/in/luís-brandão-teixeira-a483b9143/ 
 
 <!---
