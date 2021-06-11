@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luisbt07
-- 👀 I’m interested in C#, Angular, Java, React and Flutter
+- 👀 I’m interested in C#, Angular, Java, React and Flutter, all of them I had to learn from start in my work.
 - 🌱 I’m currently learning Flutter, Java, Sring Boot, Angular 
 - 👨‍🏭 I'm currently working as an intern but with functions of a Full Stack Developer on dti digital
 - 📗�I'm in the fifth period of my College studying Computing Engineering in PUC-MG BH 
